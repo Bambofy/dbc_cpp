@@ -8,7 +8,7 @@ dbc_cpp works by keeping a stack of predicates (requires, ensures and invariants
 it computes the total require, ensure and invariant predicates (including inherited methods) and throws an exception if they fail.
 
 ## Capabilities
-All of the above work with inheritance.
+All of the below work with inheritance, but, the library has not been battle tested so use with caution.
 
 - Invariants
 - Require 
