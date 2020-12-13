@@ -1,6 +1,7 @@
 ## Design by contract - C++
 
-This is an implementation of Eiffel's Design By Contract (tm) features; Invariants, Require, Ensure, Do and Old in the C++ language.
+
+This is an implementation of Eiffel's [https://www.eiffel.org/doc/solutions/Design_by_Contract_and_Assertions](Design By Contract (tm)) features; Invariants, Require, Ensure, Do and Old in the C++ language.
 
 ## How it works
 
