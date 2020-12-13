@@ -1,7 +1,7 @@
 ## Design by contract - C++
 
 
-This is an implementation of Eiffel's [Design By Contract (tm)](https://www.eiffel.org/doc/solutions/Design_by_Contract_and_Assertions) features; Invariants, Require, Ensure, Do and Old in the C++ language.
+This is an implementation of Eiffel's [Design By Contract (tm)](https://www.eiffel.org/doc/solutions/Design_by_Contract_and_Assertions) features; Invariants, Require, Ensure, Do and Old in the C++ language that supports inheritance.
 
 ## How it works
 
